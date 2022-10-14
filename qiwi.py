@@ -42,7 +42,7 @@ elif main == "2":
      
         api.pay(
           account=phone, 
-          amount=1, 
+          amount=amount, 
           comment=comment
         )
         
